@@ -5,4 +5,4 @@ from django.apps import AppConfig
 
 
 class ProfileapiConfig(AppConfig):
-    name = 'Profileapi'
+    name = 'profiles_api'
